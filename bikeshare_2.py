@@ -1,6 +1,5 @@
 import time
 import pandas as pd
-import numpy as np
 
 CITY_DATA = {'chicago': 'explore_us_bikeshare_data/chicago.csv',
              'new york city': 'explore_us_bikeshare_data/new_york_city.csv',
