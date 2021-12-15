@@ -1,7 +1,7 @@
 > **Info**: This repo is about a project taken from Udacity under **Programming for Data Science with Python -- Nanodegree Program** . 
 
 ### Date created
-This project was created on 14th of December, 2021 @ 11:00 GMT +00
+This project was created on 15th of December, 2021 @ 13:00 GMT +00
 
 ### Project Title
 Explore US Bikeshare Data
