@@ -14,7 +14,6 @@ Python 3^ (My current version was 3.9.7)
 
 ### Important Modules
 1. NumPy == 1.21.2
-2. pandas == 1.3.3
 
 ### Files used
 1. bikeshare_2.py
